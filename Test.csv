@@ -1,0 +1,19 @@
+time,valueA,valueB,valueC,valueD,valueE
+Electrical Conductivity,103,111,101,648,1041
+pH,6.9,6.7,6.8,6.6,6.8
+Turbidity,2.34,2.23,2.92,2.12,3.48
+Color (Apparent),22,20,15,4,27
+Total Alkalinity,43,48,41,175,320
+Total hardness,33,35,27,310,430
+Calcium Hardardness,18,19,19,125,230
+Flouride,0.26,0.23,0.26,0.67,0.68
+Nitrites,0.015,0.003,0.008,0.007,0.081
+Sulphate,4,4,4,69,62
+Ammonium-N,0.16,<0.002,0.04,<0.002,0.02
+Chloride,5,5,5,51,69
+Phosphates-P,0.04,0.1,0.06,1,0.06
+Nitrates-N,0.32,2.49,0.51,6.7,18
+Sodium,8.9,9.2,8.5,11,48
+Potassium,3,3.2,2.9,4,13
+Iron,0.27,0.16,0.34,0.07,2.16
+Free Chlorine,0.02,0,0.05,,
